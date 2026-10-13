@@ -1,0 +1,38 @@
+/* Page styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* Main container */
+.container {
+    text-align: center;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: white;
+    width: 400px;
+    max-width: 80%;
+    border: 1px solid #cccccc;
+}
+
+/* Message */
+#message {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+/* Button */
+button {
+    background-color: #333333;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Button hover */
+button:hover {
+    background-color: #555555;
+}
